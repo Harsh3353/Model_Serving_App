@@ -1,4 +1,4 @@
-# Model Serving Service
+# Model Serving Application
 
 This repository contains a simple Flask-based model serving service that allows you to train a logistic regression model and make predictions using form data. The service has two endpoints: `/training` for model training and `/home` for making predictions.
 
